@@ -1,3 +1,3 @@
 # RNA Playground
 
-This is my personal sandbox. Beware, *hit sunt dracones*. :smiley:
+This is my personal sandbox. Beware, *hic sunt dracones*. :smiley:
